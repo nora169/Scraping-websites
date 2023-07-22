@@ -1,0 +1,2 @@
+scraping for this website:   https://books.toscrape.com/catalogue/category/books_1/index.html
+each category in this website , i detect the book name ,its price and its rating 
